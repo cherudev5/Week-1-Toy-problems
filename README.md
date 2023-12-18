@@ -1,28 +1,52 @@
 # Week 1 Toy problems
-## Cheruiyot Kigen David
-# Challenge 1: Student Grade Generator (Toy Problem)
-Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
 
-A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+## Author : Name Date
+
+cheruiyot Kigen David :18/12/2023
+
+# Challenge 1: Student Grade Generator (Toy Problem)
+
+Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below:
+
+A > 79, B - 60 to 79, C - 59 to 49, D - 40 to 49, E - less 40.
+
 # Challenge 2: Speed Detector (Toy Problem)
+
 Write a program that takes the speed of a car as input e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
 
- > For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
- # Challenge 3: Net Salary Calculator (Toy Problem)
- Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary. 
+> For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+
+# Challenge 3: Net Salary Calculator (Toy Problem)
+
+Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary.
 
 NB: Use KRA, NHIF, and NSSF values provided in the link below.
 
 - https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
 
-Links to an external site.-  Links to an external site.Links to an external site.
+Links to an external site.- Links to an external site.Links to an external site.
 
 - www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 
-# Resources
+# Getting Files
+
+-Fork the repo
+-Create a new branch in your terminal (git checkout -b improve-feature)
+-Install the prerequisites
+-Make appropriate changes in file(s)
+-Add the changes and commit them (git commit -am "Improve code")
+-Push to the branch (git push origin )
+
+
+
+# Technologies Used
+
+1.java script
 
 # License
+
 ## MIT License
+
 Copyright (c) 2023 Cheruiyot Kigen David
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -42,3 +66,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Contact Information
+
+email:cheruiyot.david@student.moringaschool.com
